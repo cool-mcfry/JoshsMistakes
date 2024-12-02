@@ -198,6 +198,13 @@ namespace my_game
                 }
             }
         }
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            if (Manager.checker == 6)
+            {
+                Win();
+            }
+        }
         public void Win()
         {
             GameBoard.Controls.Clear();
@@ -205,15 +212,10 @@ namespace my_game
             int width = GameBoard.Width;
             Button win = new Button();
             win.Size = new Size(width, height);
+            win.Text = "you win";
+            win.Font = new Font("Script", 50);
             GameBoard.Controls.Add(win);
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-            if (Manager.checker == 5)
-            {
-                Win();
-            }
-        }
     }
 }

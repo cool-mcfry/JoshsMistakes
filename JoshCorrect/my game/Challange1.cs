@@ -90,7 +90,7 @@ namespace my_game
                 TextBox.Text = "correct";
                 Finish.Show();
             }
-            if (answer != TextBox.Text)
+            else
             {
                 TextBox.Text = "wrong";
                 Finish.Show();

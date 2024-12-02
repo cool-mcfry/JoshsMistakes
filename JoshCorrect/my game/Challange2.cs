@@ -17,6 +17,7 @@ namespace my_game
         public Challange2()
         {
             InitializeComponent();
+            Manager.Challange2Form = this;
             SetUp();
         }
         private void SetUp()
@@ -52,16 +53,38 @@ namespace my_game
         }
         void play(object sender, EventArgs e)
         {
-            BigPic2.Image = images[pic.Next(0,4)];
+            BigPic2.Image = images[pic.Next(0,3)];
             if (BigPic.Image == BigPic2.Image)
             {
                 start.Text = "Draw";
             }
-            /*
-            if (BigPic.Image )
+            if ((BigPic.Image == images[0]) && (BigPic2.Image == images[1]))
             {
-                start.Text = "Draw";
-            }*/
+                start.Text = "you lose";
+            }
+            if ((BigPic.Image == images[0]) && (BigPic2.Image == images[2]))
+            {
+                start.Text = "you win";
+                Manager.checker++;
+            }
+            if ((BigPic.Image == images[1]) && (BigPic2.Image == images[0]))
+            {
+                start.Text = "you win";
+                Manager.checker++;
+            }
+            if ((BigPic.Image == images[1]) && (BigPic2.Image == images[2]))
+            {
+                start.Text = "you lose";
+            }
+            if ((BigPic.Image == images[2]) && (BigPic2.Image == images[0]))
+            {
+                start.Text = "you lose";
+            }
+            if ((BigPic.Image == images[2]) && (BigPic2.Image == images[1]))
+            {
+                start.Text = "you win";
+                Manager.checker++;
+            }
         }
         private void CloseForm_Click(object sender, EventArgs e)
         {
