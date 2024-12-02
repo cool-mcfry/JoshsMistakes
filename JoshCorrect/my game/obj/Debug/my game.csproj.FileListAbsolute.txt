@@ -1,0 +1,95 @@
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\bin\Debug\my game.exe.config
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\bin\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\bin\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my_game.Main.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my_game.Side.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\my game\obj\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\bin\Debug\my game.exe.config
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\bin\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\bin\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my_game.Main.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my_game.Side.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\my game\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\bin\Debug\my game.exe.config
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\bin\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\bin\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my_game.Main.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my_game.Side.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\game (edited)\game-main\game-main\my game\my game\obj\Debug\my_game.memory.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\bin\Debug\my game.exe.config
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\bin\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\bin\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Main.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.memory.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Side.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\game-main\game-main\game-main\my game\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\bin\Debug\my game.exe.config
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\bin\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\bin\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Main.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.memory.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Challange1.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\game-main\game-main\game-main\game-main\my game\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my_game.Main.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my_game.memory.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my_game.Challange1.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\bin\Debug\my game.exe.config
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\bin\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\my game\game-main\my game\game-main\my game\my game\bin\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\bin\Debug\my game.exe.config
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\bin\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\bin\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my_game.Main.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my_game.memory.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my_game.Challange1.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\my game\my game\my game\obj\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my_game.Challange2.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my_game.Main.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my_game.memory.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my_game.Challange1.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\obj\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\bin\Debug\my game.exe.config
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\bin\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my game\bin\Debug\my game.pdb
