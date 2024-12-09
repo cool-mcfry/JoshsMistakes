@@ -14,6 +14,9 @@ namespace my_game
 {
     public partial class Main : Form
     {
+        //this part of the code holds varibles mem, chall1 and chall2 which are my 3 diffrent forms to craete a new one each time they are opened.
+        //it also holds a image for the stat button on the game board, a list of colours so tht each button has a colour wich corresponds with the minigame it plays.
+        //there are also 5 diffrent lists which hold the values for all my buttons depending on whic row they are in on the board.
         static memory mem;
         static Challange1 chall1;
         static Challange2 chall2;
@@ -27,6 +30,8 @@ namespace my_game
 
     public Main()
         {
+            //making main form = this causes my Main form to be the current instance of the class.
+            //this part of the code also adds my 3 diffrent colours to my list of colours.
             InitializeComponent();
             Manager.MainForm = this;
             colour.Add(Color.Crimson);
@@ -34,6 +39,11 @@ namespace my_game
             colour.Add(Color.RoyalBlue);
         }
 
+        /* in this function when pictureBox1 is clicked it removes the game rules from view and then sets up the
+           GameBoard up adding the buttons to their correct list and assigning them a colour, size and position on the board.*/ 
+        // GameBoard is my pannel which has all the buttons on it. width is the width of th game board divided by 5 and height is the width of the hgame board divided by 6.
+        // x and why are the variables i use to position each button in the correct place.
+        // c is used to keep track of which colour the next button needs to be .
         public void pictureBox1_Click(object sender, EventArgs e)
         {
             info1.Hide();
@@ -80,6 +90,7 @@ namespace my_game
                 {
                     c = 0;
                 }
+                // this adds the buttons to the game board.
                 GameBoard.Controls.Add(square);
                 y = y + hight;
                 if ((i + 1) % 6 == 0)
@@ -89,6 +100,10 @@ namespace my_game
                 }
             }
         }
+
+        /* this function first uses the checker so it knows what row of buttons are able to be pressed.
+         * once it knows what buttons can and cant be pressed currently, it assigns each button a form/mini game based on what colour button it is.
+         * then based on what colour button has been clicked it opens the corresponding mini gae form for the user to play */
         public void challange(object sender, EventArgs e)
         {
             Button p = sender as Button;
@@ -198,13 +213,18 @@ namespace my_game
                 }
             }
         }
+
+        /* When pictureBox2 is pressed, this function checks to see how many mini games have been won.
+         * if the user has won enough mini games to reach the end of the board then it calls the function win. */
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            if (Manager.checker == 6)
+            if (Manager.checker >= 5)
             {
                 Win();
             }
         }
+        /* this function first removes all of the buttons from the game board.
+         * then is creates a new button which fills the game bord and displays the words "you win". */
         public void Win()
         {
             GameBoard.Controls.Clear();
@@ -216,6 +236,5 @@ namespace my_game
             win.Font = new Font("Script", 50);
             GameBoard.Controls.Add(win);
         }
-
     }
 }

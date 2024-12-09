@@ -106,3 +106,16 @@ C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshCorrect\my g
 \\Jlc-fsrv01\s24000006736\Documents\computer science\JoshsMistakes-main\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
 \\Jlc-fsrv01\s24000006736\Documents\computer science\JoshsMistakes-main\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.exe
 \\Jlc-fsrv01\s24000006736\Documents\computer science\JoshsMistakes-main\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.exe.config
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.pdb
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Challange2.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Main.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.memory.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Challange1.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.exe
+C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.pdb

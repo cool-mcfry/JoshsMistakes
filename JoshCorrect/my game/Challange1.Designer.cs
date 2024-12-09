@@ -75,7 +75,7 @@
             this.TextBox.Name = "TextBox";
             this.TextBox.Size = new System.Drawing.Size(361, 86);
             this.TextBox.TabIndex = 3;
-            this.TextBox.Text = "Write your answer here (Full name in capital letters)";
+            this.TextBox.Text = "Write your answer here.";
             // 
             // Finish
             // 

@@ -62,7 +62,7 @@ namespace my_game
             }
             if (PicBox.Image == images[4])
             {
-                answer = ("OCEAN'S ELEVEN");
+                answer = ("OCEANS ELEVEN");
             }
             if (PicBox.Image == images[5])
             {
@@ -84,7 +84,7 @@ namespace my_game
             {
                 answer = ("LORD OF THE RINGS");
             }
-            if (answer == TextBox.Text)
+            if (answer.ToLower() == TextBox.Text.ToLower())
             {
                 Manager.checker++;
                 TextBox.Text = "correct";
