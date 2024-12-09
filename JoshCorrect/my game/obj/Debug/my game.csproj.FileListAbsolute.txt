@@ -119,3 +119,16 @@ C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-ma
 C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
 C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.exe
 C:\Users\leedu\OneDrive - John Leggott College\computer science\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.exe.config
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\bin\Debug\my game.pdb
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Challange2.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Main.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.memory.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Challange1.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my_game.Properties.Resources.resources
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.GenerateResource.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.exe
+\\JLC-FSRV01\S24000006736\Documents\computer science\JoshsMistakes-main 77\JoshsMistakes-main\JoshCorrect\my game\obj\Debug\my game.pdb

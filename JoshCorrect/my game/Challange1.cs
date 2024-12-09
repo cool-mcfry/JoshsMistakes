@@ -39,7 +39,8 @@ namespace my_game
         }
         private void start()
         {
-            PicBox.Image = images[pic.Next(0, 5)];
+            int select = pic.Next(0, 10);
+            PicBox.Image = images[select];
         }
 
         private void submit_Click(object sender, EventArgs e)

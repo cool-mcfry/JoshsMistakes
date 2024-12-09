@@ -127,6 +127,8 @@ namespace my_game
                     Manager.DisplayChallange2(true);
                     Manager.DisplayMain(false);
                 }
+                p.BackColor = Color.Gray;
+                p.Enabled = false;
             }
             if ((p.Name == "SecondRow") && (Manager.checker == 1))
             {
@@ -148,6 +150,8 @@ namespace my_game
                     Manager.DisplayChallange2(true);
                     Manager.DisplayMain(false);
                 }
+                p.BackColor = Color.Gray;
+                p.Enabled = false;
             }
             if ((p.Name == "ThirdRow") && (Manager.checker == 2))
             {
@@ -169,6 +173,8 @@ namespace my_game
                     Manager.DisplayChallange2(true);
                     Manager.DisplayMain(false);
                 }
+                p.BackColor = Color.Gray;
+                p.Enabled = false;
             }
             if ((p.Name == "FourthRow") && (Manager.checker == 3))
             {
@@ -190,6 +196,8 @@ namespace my_game
                     Manager.DisplayChallange2(true);
                     Manager.DisplayMain(false);
                 }
+                p.BackColor = Color.Gray;
+                p.Enabled = false;
             }
             if ((p.Name == "FithRow") && (Manager.checker == 4))
             {
@@ -211,7 +219,11 @@ namespace my_game
                     Manager.DisplayChallange2(true);
                     Manager.DisplayMain(false);
                 }
+                p.BackColor = Color.Gray;
+                p.Enabled = false;
             }
+
+            
         }
 
         /* When pictureBox2 is pressed, this function checks to see how many mini games have been won.

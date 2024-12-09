@@ -19,6 +19,7 @@ namespace my_game
         public static memory memoryForm;
         public static Challange2 Challange2Form;
         public static int checker = 0;
+        public static List<int> FilmNum = new List<int>();
 
         //this function is used to open or close the memory form.
         public static void DisplayMemory(bool show)
