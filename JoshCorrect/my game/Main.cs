@@ -223,16 +223,20 @@ namespace my_game
                 p.Enabled = false;
             }
 
-            
         }
 
         /* When pictureBox2 is pressed, this function checks to see how many mini games have been won.
-         * if the user has won enough mini games to reach the end of the board then it calls the function win. */
+         * if the user has won enough mini games to reach the end of the board then it calls the function win. 
+         * if the user has lost to many mini games in a row then it calls the lost function */
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             if (Manager.checker >= 5)
             {
                 Win();
+            }
+            if (Manager.lost == 6)
+            {
+                lost();
             }
         }
         /* this function first removes all of the buttons from the game board.
@@ -247,6 +251,20 @@ namespace my_game
             win.Text = "you win";
             win.Font = new Font("Script", 50);
             GameBoard.Controls.Add(win);
+        }
+
+        /* this function first removes all of the buttons from the game board.
+         * then is creates a new button which fills the game bord and displays the words "you lost". */
+        public void lost()
+        {
+            GameBoard.Controls.Clear();
+            int height = GameBoard.Height;
+            int width = GameBoard.Width;
+            Button lose = new Button();
+            lose.Size = new Size(width, height);
+            lose.Text = "you lost";
+            lose.Font = new Font("Script", 50);
+            GameBoard.Controls.Add(lose);
         }
     }
 }

@@ -18,6 +18,8 @@ namespace my_game
         {
             InitializeComponent();
             Manager.Challange2Form = this;
+            result.Hide();
+            CloseForm.Hide();
             SetUp();
         }
         private void SetUp()
@@ -53,36 +55,46 @@ namespace my_game
         }
         void play(object sender, EventArgs e)
         {
+            start.Hide();
+            result.Show();
+            CloseForm.Show();
             BigPic2.Image = images[pic.Next(0,3)];
             if (BigPic.Image == BigPic2.Image)
             {
-                start.Text = "Draw";
+                result.Text = "Draw";
+                Manager.lost++;
             }
             if ((BigPic.Image == images[0]) && (BigPic2.Image == images[1]))
             {
-                start.Text = "you lose";
+                result.Text = "you lose";
+                Manager.lost++;
             }
             if ((BigPic.Image == images[0]) && (BigPic2.Image == images[2]))
             {
-                start.Text = "you win";
+                result.Text = "you win";
+                Manager.lost = 0;
                 Manager.checker++;
             }
             if ((BigPic.Image == images[1]) && (BigPic2.Image == images[0]))
             {
-                start.Text = "you win";
+                result.Text = "you win";
+                Manager.lost = 0;
                 Manager.checker++;
             }
             if ((BigPic.Image == images[1]) && (BigPic2.Image == images[2]))
             {
-                start.Text = "you lose";
+                result.Text = "you lose";
+                Manager.lost++;
             }
             if ((BigPic.Image == images[2]) && (BigPic2.Image == images[0]))
             {
-                start.Text = "you lose";
+                result.Text = "you lose";
+                Manager.lost++;
             }
             if ((BigPic.Image == images[2]) && (BigPic2.Image == images[1]))
             {
-                start.Text = "you win";
+                result.Text = "you win";
+                Manager.lost = 0;
                 Manager.checker++;
             }
         }
@@ -91,5 +103,6 @@ namespace my_game
             Manager.DisplayMain(true);
             this.Dispose();
         }
+
     }
 }

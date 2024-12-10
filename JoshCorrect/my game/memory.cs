@@ -134,7 +134,7 @@ namespace my_game
         }
 
         /* this function checks to make sure that the user has clicked a box of the colour they needed to find.
-         * if they found the right button then  it tells theem they are right an adds 1 to the checker and if not then it tells them they are wrong */
+         * if they found the right button then  it tells theem they are right an adds 1 to the checker and sets lost back to 0 and if not then it tells them they are wrong and adds 1 to lost */
         void check(object sender, EventArgs e)
         {
             foreach(Button b in selected)
@@ -148,10 +148,12 @@ namespace my_game
                         {
                             Right.Text = "correct";
                             Manager.checker++;
+                            Manager.lost = 0;
                         }
                         if (colorPosition[i] != colorAnswer)
                         {
                             Right.Text = "Wrong";
+                            Manager.lost++;
                         }
                     }
                 }

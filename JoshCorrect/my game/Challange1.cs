@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -11,10 +12,15 @@ using System.Windows.Forms;
 namespace my_game
 {
     public partial class Challange1 : Form
-    {
+    { 
+        /* here there is a list created that holds the images used in the game.
+         * there is also a random variable creted and a string named answer. */
         List<Image> images = new List<Image>();
         Random pic = new Random();
         string answer = "";
+
+        /* making challange1 form = this causes my challange1 form to be the current instance of the class.
+         */
         public Challange1()
         {
             InitializeComponent();
@@ -40,11 +46,20 @@ namespace my_game
         private void start()
         {
             int select = pic.Next(0, 10);
+            for (int i = 0; i < Manager.FilmNum.Count; i++)
+            {
+                while (Manager.FilmNum[i] == select)
+                {
+                    select = pic.Next(0, 10);
+                }
+            }
+            Manager.FilmNum.Add(select);
             PicBox.Image = images[select];
         }
 
         private void submit_Click(object sender, EventArgs e)
         {
+            submit.Hide();
             if(PicBox.Image == images[0])
             {
                 answer = ("BEAUTY AND THE BEAST");
@@ -89,11 +104,13 @@ namespace my_game
             {
                 Manager.checker++;
                 TextBox.Text = "correct";
+                Manager.lost = 0;
                 Finish.Show();
             }
             else
             {
-                TextBox.Text = "wrong";
+                TextBox.Text = "wrong. the correct answer was '"+answer+"'";
+                Manager.lost++;
                 Finish.Show();
             }
         }
@@ -102,5 +119,8 @@ namespace my_game
             Manager.DisplayMain(true);
             this.Dispose();
         }
+
+
+        }
     }
-}
+

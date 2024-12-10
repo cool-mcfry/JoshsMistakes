@@ -14,12 +14,14 @@ namespace my_game
     {
         // this part of cod has put all my forms in one area so that i can call upon them easier.
         // it also holds my varibe checker which counts how many times you win a mini game and this variable is easier to call upon since it is in this area.
+        // it also hodl the variable lost which tracks how many games have been lost. this variable is easier to call upon since it is in this area.
         public static Main MainForm;
         public static Challange1 Challange1Form;
         public static memory memoryForm;
         public static Challange2 Challange2Form;
         public static int checker = 0;
         public static List<int> FilmNum = new List<int>();
+        public static int lost = 0;
 
         //this function is used to open or close the memory form.
         public static void DisplayMemory(bool show)
