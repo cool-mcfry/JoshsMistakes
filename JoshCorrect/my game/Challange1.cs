@@ -20,7 +20,8 @@ namespace my_game
         string answer = "";
 
         /* making challange1 form = this causes my challange1 form to be the current instance of the class.
-         */
+         * it changes the click event for finish to be correct and hides the button
+         * it then starts the setup function */
         public Challange1()
         {
             InitializeComponent();
@@ -29,6 +30,8 @@ namespace my_game
             Finish.Hide();
             SetUp();
         }
+
+        /* this function adds all my images to the image list then starts the function 'start' */
         private void SetUp()
         {
             images.Add(Image.FromFile("guess1.JPG"));
@@ -43,6 +46,9 @@ namespace my_game
             images.Add(Image.FromFile("Guess10.JPG"));
             start();
         }
+
+        /* this function gets a random number and then uses that random number to pic a image from the list to show the user
+         * it also checks that this image has not already been used in the game and if it has it keeps changing it till it finds one which hasnt been used */
         private void start()
         {
             int select = pic.Next(0, 10);
